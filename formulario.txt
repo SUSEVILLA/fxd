@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formulario</title>
+</head>
+<body>
+    <form>
+        <label for="nombre">Nombre:</label><br>
+        <input type="text" id="nombre" name="nombre"><br><br>
+        <label for="apellidos">Apellidos:</label><br>
+        <input type="text" id="apellidos" name="apellidos"><br><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br><br>
+        <label for="celular">Celular:</label><br>
+        <input type="tel" id="celular" name="celular"><br><br>
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
